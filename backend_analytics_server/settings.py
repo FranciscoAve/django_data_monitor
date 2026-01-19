@@ -153,6 +153,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 API_URL = 'https://favendan.pythonanywhere.com/landing/api/index/?format=json'
 
+
 # Fallo: acceso sin autenticación
 LOGIN_URL = '/login/'
 
